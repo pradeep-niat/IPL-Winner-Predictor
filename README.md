@@ -42,14 +42,6 @@ The model is trained using:
 
 ---
 
-## 📷 Screenshots
-
-| Home Page | Prediction Result |
-|-----------|-------------------|
-| *(Add screenshots here)* | *(Optional)* |
-
----
-
 ## 🚀 How to Use
 
 1. Open the [Live App](https://readdy.link/preview/9ec5c17d-ff25-42a2-8d09-6ce54fabb7b0/1105545)
